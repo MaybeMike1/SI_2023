@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using CsvHelper;
-using CsvHelper.Configuration;
-using DotnetParser;
+﻿using DotnetParser;
 using Newtonsoft;
 using Newtonsoft.Json;
 using System.Reflection.PortableExecutable;

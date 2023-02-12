@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michael.berko\\source\\repos\\DotnetParser\\DotnetParser\\DotnetParser.csproj": {}
+    "C:\\projects\\SI_2023\\1.parseData_dotnet\\DotnetParser\\DotnetParser\\DotnetParser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michael.berko\\source\\repos\\DotnetParser\\DotnetParser\\DotnetParser.csproj": {
+    "C:\\projects\\SI_2023\\1.parseData_dotnet\\DotnetParser\\DotnetParser\\DotnetParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michael.berko\\source\\repos\\DotnetParser\\DotnetParser\\DotnetParser.csproj",
+        "projectUniqueName": "C:\\projects\\SI_2023\\1.parseData_dotnet\\DotnetParser\\DotnetParser\\DotnetParser.csproj",
         "projectName": "DotnetParser",
-        "projectPath": "C:\\Users\\michael.berko\\source\\repos\\DotnetParser\\DotnetParser\\DotnetParser.csproj",
+        "projectPath": "C:\\projects\\SI_2023\\1.parseData_dotnet\\DotnetParser\\DotnetParser\\DotnetParser.csproj",
         "packagesPath": "C:\\Users\\michael.berko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michael.berko\\source\\repos\\DotnetParser\\DotnetParser\\obj\\",
+        "outputPath": "C:\\projects\\SI_2023\\1.parseData_dotnet\\DotnetParser\\DotnetParser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\michael.berko\\AppData\\Roaming\\NuGet\\NuGet.Config",
