@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iiy93yhwKhbNpB15QpXehY15Dnx7k9jGWT7tmF3VQ1lQx/c66KtnX1PgMLuRReBA7adqUKLJTiLVrbnb1Jx/hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michael.berko\\source\\repos\\DotnetParser\\DotnetParser\\DotnetParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michael.berko\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\michael.berko\\.nuget\\packages\\yamldotnet\\13.0.0\\yamldotnet.13.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+﻿<me>
+  <name>Michael</name>
+  <age>25</age>
+  <hobbies>
+    <hobby>Soccer</hobby>
+    <hobby>Running</hobby>
+    <hobby>Programming</hobby>
+  </hobbies>
+</me>
