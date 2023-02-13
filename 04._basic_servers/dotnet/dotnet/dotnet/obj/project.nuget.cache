@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWZJxtgpeoPUO0a+Gh1w6jmxLCaUJk/h56+g9YmMt8+sD3FgEbVz23zX0D1RFcFfn2dBAUjx+zcugIeiFTuoKg==",
+  "success": true,
+  "projectFilePath": "/Users/michaelberko/Software_Development/SI_2023/04._basic_servers/dotnet/dotnet/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelberko/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/newtonsoft.json/13.0.3-beta1/newtonsoft.json.13.0.3-beta1.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/michaelberko/.nuget/packages/yamldotnet/13.0.0/yamldotnet.13.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
