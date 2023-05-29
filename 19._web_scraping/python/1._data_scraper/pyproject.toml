@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "1-data-scraper"
+version = "0.1.0"
+description = ""
+authors = ["maybeMike1 <mich8g52@stud.kea.dk>"]
+readme = "README.md"
+packages = [{include = "1"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.30.0"
+beautifulsoup4 = "^4.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

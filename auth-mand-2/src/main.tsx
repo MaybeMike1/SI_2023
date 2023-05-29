@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
       domain="dev-fpxy56qptb1sd2sk.eu.auth0.com"
       clientId="4SamChzbCcaE6Xb0MBeKS2DU6b831F3E"
       authorizationParams={{
-        redirect_uri: "https://5e1d-195-249-146-101.ngrok-free.app",
+        redirect_uri: "https://1bed-2a02-aa7-4007-318a-b839-e1d7-4fb6-2448.ngrok-free.app",
       }}
     >
     <App />

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+
+    <h2>Multipart/form-data</h2>
+
+    <form method="POST" action="http://127.0.0.1:8000/form">
+        <input name="username" type="text" />
+        <input name="password" type="password" />
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+    </form>
+
+    <form style="margin-top:10px; display: flex; flex-direction: column; gap: 1em;"
+        action="http://127.0.0.1:8000/fileform" method="POST" enctype="multipart/form-data">
+        <label>File to upload</label>
+        <input name="file" type="file" />
+        <button type="submit">Submit</button>
+    </form>
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/_AIKlI8XxUo"
+        title="Momoshiki boruto vs Code part 2, the appearance of Naruto and Shikamaru || Boruto Episode 292"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+</body>
+
+</html>
